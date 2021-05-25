@@ -1,2 +1,2 @@
-# SLMMEE
-The repository of SLMMEE.
+# MEED
+The repository of MEED.
