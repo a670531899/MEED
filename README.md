@@ -16,7 +16,7 @@ The images can be download at Baidu Netdisk : https://pan.baidu.com/s/1YC72EQVlk
 
 The **format** of the data:
 
-```json
+```js
 {
 	"image_id"&#58; int,
 	"image_name"\: str,
