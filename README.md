@@ -18,10 +18,10 @@ The **format** of the data:
 
 ```json
 {
-	"image_id":int,
-	"image_name":str,
-	"text":[str,str,str],
-	"event":str,
+	"image_id": int,
+	"image_name": str,
+	"text": [str,str,str],
+	"event": str,
 	"trigger":{
 		"word":str,
 		"position":[{"start":int,"end":int},{"start":int,"end":int},{"start":int,"end":int}]
