@@ -45,7 +45,11 @@ The **format** of the data:
 
 There are two example of dataset presented in the paper:
 
+<<<<<<< HEAD
 <img src="data.png" alt="datas" style="zoom:50%;" />
+=======
+<img src="https://github.com/a670531899/MEED/blob/main/data.png" alt="datas" style="zoom:50%;" />
+>>>>>>> 63804f391305d1424bf45bd532f2edde69d8c952
 
 
 
