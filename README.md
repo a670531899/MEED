@@ -18,7 +18,7 @@ The **format** of the data:
 
 ```json
 {
-	"image_id"\: int,
+	"image_id"&#58; int,
 	"image_name"\: str,
 	"text": [str,str,str],
 	"event": str,
