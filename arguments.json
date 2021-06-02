@@ -1,0 +1,421 @@
+{
+    "Justice.Arrest-Jail": [
+        "suspect",
+        "agent",
+        "victim",
+        "target",
+        "restrained",
+        "place"
+    ],
+    "Activity.Sport": [
+        "tool",
+        "agent",
+        "path",
+        "place",
+        "obstacle",
+        "vehicle",
+        "item"
+    ],
+    "Activity.March": [
+        "agent",
+        "place"
+    ],
+    "Confict.Attack": [
+        "rammingitem",
+        "tool",
+        "weapon",
+        "agent",
+        "victim",
+        "hunted",
+        "target",
+        "bodypart",
+        "place",
+        "coagent",
+        "projectile",
+        "item",
+        "firearm",
+        "agentpart"
+    ],
+    "Daily.Eat": [
+        "food",
+        "tool",
+        "agent",
+        "container",
+        "place",
+        "item"
+    ],
+    "Education.Teach": [
+        "place",
+        "subject",
+        "teacher",
+        "student"
+    ],
+    "Daily.Shave": [
+        "place",
+        "tool",
+        "coagent",
+        "agent",
+        "substance",
+        "bodypart"
+    ],
+    "Action.Fly": [
+        "agent",
+        "place"
+    ],
+    "Daily.Cook": [
+        "food",
+        "tool",
+        "agent",
+        "heatsource",
+        "container",
+        "place",
+        "foodcontainer",
+        "item"
+    ],
+    "Education.Lecture": [
+        "agent",
+        "audience",
+        "place"
+    ],
+    "Action.Fall": [
+        "parachute",
+        "agent",
+        "goal",
+        "destination",
+        "start",
+        "place",
+        "source"
+    ],
+    "Ceremony.Salute": [
+        "agent",
+        "place",
+        "target"
+    ],
+    "Activity.Race": [
+        "place",
+        "competition",
+        "agent"
+    ],
+    "Action.Leap": [
+        "destination",
+        "place",
+        "obstacle",
+        "source",
+        "agent"
+    ],
+    "Ceremony.Mourn": [
+        "place",
+        "mourner"
+    ],
+    "Disaster.Erupt": [
+        "agent",
+        "place",
+        "substance"
+    ],
+    "Entertainment.Sing": [
+        "agent",
+        "place"
+    ],
+    "Transportation.Taxi": [
+        "agent",
+        "place",
+        "ground"
+    ],
+    "Ceremony.Curtsy": [
+        "agent",
+        "place"
+    ],
+    "Operation.Manual": [
+        "item1",
+        "tool",
+        "connector",
+        "item2",
+        "substance",
+        "destination",
+        "fastener",
+        "place",
+        "component",
+        "surface",
+        "removeditem",
+        "goalitem",
+        "agent",
+        "goal",
+        "source",
+        "item",
+        "material"
+    ],
+    "Agriculture.Farm": [
+        "instrument",
+        "farmer",
+        "tool",
+        "agent",
+        "harvesteditem",
+        "planted",
+        "ground",
+        "place",
+        "coparticipant",
+        "item"
+    ],
+    "Agriculture.Mow": [
+        "place",
+        "tool",
+        "agent",
+        "item"
+    ],
+    "Confict.Scold": [
+        "agent",
+        "victim",
+        "place"
+    ],
+    "Life.Be-Treat": [
+        "tool",
+        "agent",
+        "victim",
+        "substance",
+        "destination",
+        "place",
+        "source",
+        "item",
+        "ailment"
+    ],
+    "Contact.Meeting": [
+        "place",
+        "interviewee",
+        "tool",
+        "agent",
+        "item",
+        "adressee"
+    ],
+    "Action.Light": [
+        "tool",
+        "agent",
+        "place",
+        "item"
+    ],
+    "Movement.Transport": [
+        "item",
+        "carrier",
+        "place",
+        "tool"
+    ],
+    "Daily.Clean": [
+        "tool",
+        "agent",
+        "substance",
+        "brush",
+        "dirt",
+        "place",
+        "source",
+        "coagent",
+        "object",
+        "item",
+        "surface"
+    ],
+    "Contact.Phone-Write": [
+        "place",
+        "tool",
+        "agent"
+    ],
+    "Daily.Drink": [
+        "agent",
+        "container",
+        "place",
+        "liquid"
+    ],
+    "Ceremony.Celebrate": [
+        "agent",
+        "place",
+        "occasion"
+    ],
+    "Entertainment.Show": [
+        "tool",
+        "stage",
+        "agent",
+        "place",
+        "event",
+        "items"
+    ],
+    "Education.Speech": [
+        "agent",
+        "place",
+        "addressee"
+    ],
+    "Operation.Repair": [
+        "tool",
+        "problem",
+        "agent",
+        "place",
+        "object",
+        "item",
+        "objectpart"
+    ],
+    "Ceremony.Cheer": [
+        "agent",
+        "place"
+    ],
+    "Transportation.Boat": [
+        "place",
+        "boaters",
+        "vehicle",
+        "agent"
+    ],
+    "Entertainment.Photograph": [
+        "agent",
+        "item",
+        "place",
+        "tool"
+    ],
+    "Transaction.Transaction": [
+        "payment",
+        "seller",
+        "good",
+        "agent",
+        "place",
+        "item",
+        "goods",
+        "buyer"
+    ],
+    "Entertainment.Cheerlead": [
+        "agent",
+        "supported",
+        "place"
+    ],
+    "Transportation.Board": [
+        "agent",
+        "place",
+        "vehicle"
+    ],
+    "Entertainment.Dance": [
+        "agent",
+        "place"
+    ],
+    "Transportation.Disembark": [
+        "agent",
+        "place",
+        "vehicle"
+    ],
+    "Confict.Collide": [
+        "agent",
+        "item",
+        "place"
+    ],
+    "Personnel.Elect": [
+        "agent",
+        "place"
+    ],
+    "Accident.Crash": [
+        "agent",
+        "item",
+        "place",
+        "against"
+    ],
+    "Agriculture.Weed": [
+        "agent",
+        "place",
+        "tool"
+    ],
+    "Disaster.Storm": [
+        "place"
+    ],
+    "Operation.Build": [
+        "goalitem",
+        "components",
+        "tool",
+        "createditem",
+        "agent",
+        "place"
+    ],
+    "Activity.Camp": [
+        "agent",
+        "place",
+        "shelter"
+    ],
+    "Education.Read": [
+        "agent",
+        "item",
+        "place"
+    ],
+    "Activity.Gamble": [
+        "place",
+        "stake",
+        "agent"
+    ],
+    "Ceremony.Baptize": [
+        "agent",
+        "baptized",
+        "place"
+    ],
+    "Activity.Shop": [
+        "agent",
+        "place",
+        "goods"
+    ],
+    "Daily.Sleep": [
+        "agent",
+        "place"
+    ],
+    "Activity.Barbecue": [
+        "agent",
+        "food",
+        "place"
+    ],
+    "Confict.Demonstrate": [
+        "agent",
+        "place"
+    ],
+    "Education.Study": [
+        "agent",
+        "place"
+    ],
+    "Ceremony.Pray": [
+        "agent",
+        "place"
+    ],
+    "Activity.Fish": [
+        "agent",
+        "place",
+        "tool",
+        "source"
+    ],
+    "Action.Hitchhike": [
+        "agent",
+        "place"
+    ],
+    "Entertainment.Drum": [
+        "agent",
+        "item",
+        "place",
+        "tool"
+    ],
+    "Operation.Launch": [
+        "destination",
+        "place",
+        "source",
+        "agent",
+        "item"
+    ],
+    "Accident.Extinguish": [
+        "agent",
+        "item",
+        "place",
+        "tool"
+    ],
+    "Personnel.Crown": [
+        "agent",
+        "place",
+        "crown",
+        "crownedentity"
+    ],
+    "Transportation.Drive": [
+        "place",
+        "tool",
+        "vehicle",
+        "agent",
+        "item"
+    ],
+    "Conflict.Confront": [
+        "agent",
+        "place",
+        "confronted"
+    ]
+}

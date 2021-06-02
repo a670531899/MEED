@@ -1,0 +1,106 @@
+{
+    "Life": [
+        "Be-Born",
+        "Marry",
+        "Be-Treat"
+    ],
+    "Daily":[
+        "Sleep",
+        "Eat",
+        "Drink",
+        "Shave",
+        "Cook",
+        "Clean"
+    ],
+    "Transaction": [
+        "Transaction"
+    ],
+    "Movement": [
+        "Transport"
+    ],
+    "Action": [
+        "Fly",
+        "Fall",
+        "Leap",
+        "Hitchhike",
+        "Light"
+    ],
+    "Confict": [
+        "Attack",
+        "Demonstrate",
+        "Scold",
+        "Collide"
+    ],
+    "Contact": [
+        "Meeting",
+        "Phone-Write"
+    ],
+    "Personnel": [
+        "Elect",
+        "Crown"
+    ],
+    "Justice": [
+        "Arrest-Jail",
+        "Trial-Hearing"
+    ],
+    "Activity": [
+        "March",
+        "Camp",
+        "Gamble",
+        "Barbecue",
+        "Fish",
+        "Race",
+        "Sport",
+        "Shop"
+    ],
+    "Ceremony": [
+        "Mourn",
+        "Celebrate",
+        "Cheer",
+        "Baptize",
+        "Pray",
+        "Curtsy",
+        "Salute"
+    ],
+    "Education": [
+        "Teach",
+        "Lecture",
+        "Speech",
+        "Study",
+        "Read"
+    ],
+    "Disaster": [
+        "Erupt",
+        "Storm"
+    ],
+    "Transportation": [
+        "Taxi",
+        "Boat",
+        "Board",
+        "Disembark",
+        "Drive"
+    ],
+    "Agriculture": [
+        "Mow",
+        "Weed",
+        "Farm"
+    ],
+    "Accident": [
+        "Crash",
+        "Extinguish"
+    ],
+    "Operation": [
+        "Manual",
+        "Build",
+        "Repair",
+        "Launch"
+    ],
+    "Entertainment": [
+        "Sing",
+        "Show",
+        "Dance",
+        "Drum",
+        "Cheerlead",
+        "Photograph"
+    ]
+}
