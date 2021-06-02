@@ -16,7 +16,7 @@ The images can be download at Baidu Netdisk : https://pan.baidu.com/s/1YC72EQVlk
 
 The **format** of the data:
 
-```json
+```
 {
 	"image_id":int,
 	"image_name":str,
@@ -45,7 +45,7 @@ The **format** of the data:
 
 There are two example of dataset presented in the paper:
 
-<img src="D:\Papers\Mine\datas.png" alt="datas" style="zoom:50%;" />
+<img src="data.png" alt="datas" style="zoom:50%;" />
 
 
 
